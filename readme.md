@@ -24,7 +24,7 @@
  `city-city`：市区
  
  `city-district`：县级
- 
+
 - 在html中给元素添加class示例
    
          <div class="area-select">
@@ -46,7 +46,7 @@
 ##demo演示
 [地区三级联动demo][1]
 #更新日志
-- 实现省份、城市、区县三级联动，兼容ie6
+- 实现省份、城市、区县三级联动，兼容ie6  ---2015年12月23日
 
     
   
