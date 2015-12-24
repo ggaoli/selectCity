@@ -16,10 +16,15 @@
     <script src="javascript/jquery.select-city.js"></script>
 ###2、html中代码的实现
 - 必要className介绍
+
  `area-select` ：插件外层容器
+ 
  `city-province`：省份
+ 
  `city-city`：市区
+ 
  `city-district`：县级
+ 
 - 在html中给元素添加class示例
    
          <div class="area-select">
